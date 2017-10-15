@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/right2
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://right2.io
+  * I am right2 (https://keybase.io/right2) on keybase.
+  * I have a public key with fingerprint 1D55 74B6 20AE A9FB 3381  09B9 1001 73A2 4B0D 8EB1
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01014935c7adea891dff10474bdb51029d7034aa5d25324237b089ab5fc1535e50950a",
+      "fingerprint": "1d5574b620aea9fb338109b9100173a24b0d8eb1",
+      "host": "keybase.io",
+      "key_id": "100173a24b0d8eb1",
+      "kid": "01014935c7adea891dff10474bdb51029d7034aa5d25324237b089ab5fc1535e50950a",
+      "uid": "43af630d4c290e634e3e7d1fd90a2b19",
+      "username": "right2"
+    },
+    "service": {
+      "hostname": "right2.io",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1506846402,
+  "expire_in": 157680000,
+  "prev": "9e99d71b630fc1efeef630e893ca1320dab7a29c8c10f2362f09dc5beaaec939",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.74
+Comment: https://keybase.io/crypto
+
+yMIhAnicrVJtSBRBGL7LsjyQov70I6wWo+BMZnZ2b3cO+v4RdZUVURxZ18zu7N2m
+3l17e9YlUhBZVPRNUERpoSVZKIVhEZlIkdalFGdJimBQCPYd9AHVrNWPoJ/Nn2He
+eZ7nfZ6Xtz03y+Vxb1oyXIRordfdeedI0hXsqmurEGhMTwn+CqGEjVysVGcJO1Ri
+6oJfABBACSNZU4jOiIqhbhgQSIpEdSpDIGJdAUgiRNZFGYmSiBQKVEyobGhQRjKT
+AZYBEQoEw4yGmRW3zKjNZaEuy1zDJwLCCDYoQioEmGIIAFQQESUKdJVRyImRWMJh
+cHOUJFihGeM1/giN2PsH/j/7To7ISYgYPgR0SRMxYD4kMcQUHRo6BkSkEDvABLOi
+pIxxtGWGI7YoVBYIvFZuaswZq5Pjr/9fUeJWzI5psVJejth23O+w7FTcgW1lNPRb
+IETNqM4nyAnlzEqYsajghxyp2aajCGXgUyWfBMQCgW2LmxYLmQ5CVnwq4Mdpw8q5
+JGaYJ4eUZ+FBmcGYE4upGGkEIhHohCpExJqqQWCIyCcaAOuaTBkhTMPIyZlgW6Ix
+wY+4TRLmkgkzHCV20mJCZVtr8WiX2+PKHjPK2SyXJ2fCn31blDP2a5Ynf2LOzaHT
+1d7lqWkXL22I7G2ZZ2Wu0fa+ecl3/cFlrPdFwGzqb+reRYvvTRpc8ORE+9VX+fs6
+Zm7fU73m2KnXhw+OvlxxvftA+tBx7+aZ/ps1+cO1bzzNWVWnJrwsXLxyRfjulPTD
+reO/qPk7BzJ9NbdvuNnhs0enn83O+WjsiLQUg/Pn7j8Ij2v4Nh8MZg9P3teXMY5d
+s26drMoseAuLGusWrhv45N39vG3j+p4zlftnpYIfB3dePd8bTNc/WnTjQl6RVjP3
+SOdqT2OgZ07t0h/u589eB3IXTx3T/L3udMPQ7MZVXXlln9em1h0aOGGkO1r751+Z
+QQs7H1d9CAWG6pe8f7r7J+klRe0=
+=UgZc
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/right2
+
+==================================================================
